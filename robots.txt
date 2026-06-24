@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://egiraldmu1795.github.io/ai-workflow-pack/sitemap.xml
